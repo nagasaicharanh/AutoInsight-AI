@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+.coverage
+.venv/
+venv/
+cdk.out/
+.cdk.staging/
+.env
+node_modules/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
